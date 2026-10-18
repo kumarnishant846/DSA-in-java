@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/kumarnishant846/DSA-in-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kumarnishant846/DSA-in-java/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kumarnishant846/DSA-in-java/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/kumarnishant846/DSA-in-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kumarnishant846/DSA-in-java/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kumarnishant846/DSA-in-java/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/kumarnishant846/DSA-in-java/tree/master/0844-backspace-string-compare) |
@@ -29,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kumarnishant846/DSA-in-java/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0496-next-greater-element-i](https://github.com/kumarnishant846/DSA-in-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kumarnishant846/DSA-in-java/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kumarnishant846/DSA-in-java/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/kumarnishant846/DSA-in-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kumarnishant846/DSA-in-java/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kumarnishant846/DSA-in-java/tree/master/0739-daily-temperatures) |
 ## Math
@@ -52,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kumarnishant846/DSA-in-java/tree/master/0225-implement-stack-using-queues) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kumarnishant846/DSA-in-java/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
