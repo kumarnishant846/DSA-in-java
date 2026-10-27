@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kumarnishant846/DSA-in-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kumarnishant846/DSA-in-java/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kumarnishant846/DSA-in-java/tree/master/0739-daily-temperatures) |
+| [0934-shortest-bridge](https://github.com/kumarnishant846/DSA-in-java/tree/master/0934-shortest-bridge) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kumarnishant846/DSA-in-java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
@@ -65,4 +66,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kumarnishant846/DSA-in-java/tree/master/0496-next-greater-element-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [0934-shortest-bridge](https://github.com/kumarnishant846/DSA-in-java/tree/master/0934-shortest-bridge) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0934-shortest-bridge](https://github.com/kumarnishant846/DSA-in-java/tree/master/0934-shortest-bridge) |
+## Matrix
+|  |
+| ------- |
+| [0934-shortest-bridge](https://github.com/kumarnishant846/DSA-in-java/tree/master/0934-shortest-bridge) |
 <!---LeetCode Topics End-->
