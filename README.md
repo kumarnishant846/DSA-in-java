@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/kumarnishant846/DSA-in-java/tree/master/0141-linked-list-cycle) |
 | [0844-backspace-string-compare](https://github.com/kumarnishant846/DSA-in-java/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/kumarnishant846/DSA-in-java/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/kumarnishant846/DSA-in-java/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/kumarnishant846/DSA-in-java/tree/master/0496-next-greater-element-i) |
 ## Depth-First Search
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/kumarnishant846/DSA-in-java/tree/master/0141-linked-list-cycle) |
 | [0622-design-circular-queue](https://github.com/kumarnishant846/DSA-in-java/tree/master/0622-design-circular-queue) |
 ## Tree
 |  |
@@ -125,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kumarnishant846/DSA-in-java/tree/master/0347-top-k-frequent-elements) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/kumarnishant846/DSA-in-java/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
