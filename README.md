@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kumarnishant846/DSA-in-java/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/kumarnishant846/DSA-in-java/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/kumarnishant846/DSA-in-java/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/kumarnishant846/DSA-in-java/tree/master/0071-simplify-path) |
 | [0844-backspace-string-compare](https://github.com/kumarnishant846/DSA-in-java/tree/master/0844-backspace-string-compare) |
 ## Stack
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kumarnishant846/DSA-in-java/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kumarnishant846/DSA-in-java/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Two Pointers
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kumarnishant846/DSA-in-java/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/kumarnishant846/DSA-in-java/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kumarnishant846/DSA-in-java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Queue
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/kumarnishant846/DSA-in-java/tree/master/0907-sum-of-subarray-minimums) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/kumarnishant846/DSA-in-java/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
