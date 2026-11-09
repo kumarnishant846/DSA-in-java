@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0934-shortest-bridge](https://github.com/kumarnishant846/DSA-in-java/tree/master/0934-shortest-bridge) |
 | [1367-linked-list-in-binary-tree](https://github.com/kumarnishant846/DSA-in-java/tree/master/1367-linked-list-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/kumarnishant846/DSA-in-java/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -121,16 +122,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kumarnishant846/DSA-in-java/tree/master/0102-binary-tree-level-order-traversal) |
 | [1367-linked-list-in-binary-tree](https://github.com/kumarnishant846/DSA-in-java/tree/master/1367-linked-list-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/kumarnishant846/DSA-in-java/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kumarnishant846/DSA-in-java/tree/master/0102-binary-tree-level-order-traversal) |
 | [1367-linked-list-in-binary-tree](https://github.com/kumarnishant846/DSA-in-java/tree/master/1367-linked-list-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/kumarnishant846/DSA-in-java/tree/master/1382-balance-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kumarnishant846/DSA-in-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kumarnishant846/DSA-in-java/tree/master/0347-top-k-frequent-elements) |
+| [1382-balance-a-binary-search-tree](https://github.com/kumarnishant846/DSA-in-java/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -170,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kumarnishant846/DSA-in-java/tree/master/0067-add-binary) |
+## Greedy
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/kumarnishant846/DSA-in-java/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/kumarnishant846/DSA-in-java/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
