@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/kumarnishant846/DSA-in-java/tree/master/0907-sum-of-subarray-minimums) |
 | [0934-shortest-bridge](https://github.com/kumarnishant846/DSA-in-java/tree/master/0934-shortest-bridge) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kumarnishant846/DSA-in-java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/kumarnishant846/DSA-in-java/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kumarnishant846/DSA-in-java/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/kumarnishant846/DSA-in-java/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kumarnishant846/DSA-in-java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/kumarnishant846/DSA-in-java/tree/master/2073-time-needed-to-buy-tickets) |
 ## Queue
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/kumarnishant846/DSA-in-java/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/kumarnishant846/DSA-in-java/tree/master/0622-design-circular-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kumarnishant846/DSA-in-java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/kumarnishant846/DSA-in-java/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
