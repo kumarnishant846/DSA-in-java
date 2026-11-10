@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/kumarnishant846/DSA-in-java/tree/master/0051-n-queens) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kumarnishant846/DSA-in-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kumarnishant846/DSA-in-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kumarnishant846/DSA-in-java/tree/master/0347-top-k-frequent-elements) |
@@ -182,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/kumarnishant846/DSA-in-java/tree/master/1382-balance-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/kumarnishant846/DSA-in-java/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/kumarnishant846/DSA-in-java/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
