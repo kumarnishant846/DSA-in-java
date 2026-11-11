@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/kumarnishant846/DSA-in-java/tree/master/0071-simplify-path) |
 | [0214-shortest-palindrome](https://github.com/kumarnishant846/DSA-in-java/tree/master/0214-shortest-palindrome) |
 | [0844-backspace-string-compare](https://github.com/kumarnishant846/DSA-in-java/tree/master/0844-backspace-string-compare) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kumarnishant846/DSA-in-java/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Stack
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kumarnishant846/DSA-in-java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/kumarnishant846/DSA-in-java/tree/master/0141-linked-list-cycle) |
 | [0844-backspace-string-compare](https://github.com/kumarnishant846/DSA-in-java/tree/master/0844-backspace-string-compare) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kumarnishant846/DSA-in-java/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Simulation
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/kumarnishant846/DSA-in-java/tree/master/0214-shortest-palindrome) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kumarnishant846/DSA-in-java/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Function
 |  |
 | ------- |
