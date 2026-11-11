@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kumarnishant846/DSA-in-java/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/kumarnishant846/DSA-in-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kumarnishant846/DSA-in-java/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/kumarnishant846/DSA-in-java/tree/master/0525-contiguous-array) |
 | [0622-design-circular-queue](https://github.com/kumarnishant846/DSA-in-java/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/kumarnishant846/DSA-in-java/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/kumarnishant846/DSA-in-java/tree/master/0907-sum-of-subarray-minimums) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kumarnishant846/DSA-in-java/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/kumarnishant846/DSA-in-java/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/kumarnishant846/DSA-in-java/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/kumarnishant846/DSA-in-java/tree/master/0525-contiguous-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/kumarnishant846/DSA-in-java/tree/master/0051-n-queens) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/kumarnishant846/DSA-in-java/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
