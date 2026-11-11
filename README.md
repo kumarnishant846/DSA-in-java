@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/kumarnishant846/DSA-in-java/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/kumarnishant846/DSA-in-java/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/kumarnishant846/DSA-in-java/tree/master/0071-simplify-path) |
+| [0214-shortest-palindrome](https://github.com/kumarnishant846/DSA-in-java/tree/master/0214-shortest-palindrome) |
 | [0844-backspace-string-compare](https://github.com/kumarnishant846/DSA-in-java/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
@@ -197,4 +198,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/kumarnishant846/DSA-in-java/tree/master/0525-contiguous-array) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/kumarnishant846/DSA-in-java/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/kumarnishant846/DSA-in-java/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/kumarnishant846/DSA-in-java/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/kumarnishant846/DSA-in-java/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/kumarnishant846/DSA-in-java/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/kumarnishant846/DSA-in-java/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
