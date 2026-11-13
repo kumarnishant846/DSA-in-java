@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/kumarnishant846/DSA-in-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kumarnishant846/DSA-in-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kumarnishant846/DSA-in-java/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/kumarnishant846/DSA-in-java/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/kumarnishant846/DSA-in-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kumarnishant846/DSA-in-java/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/kumarnishant846/DSA-in-java/tree/master/0525-contiguous-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kumarnishant846/DSA-in-java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kumarnishant846/DSA-in-java/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/kumarnishant846/DSA-in-java/tree/master/0141-linked-list-cycle) |
+| [0349-intersection-of-two-arrays](https://github.com/kumarnishant846/DSA-in-java/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/kumarnishant846/DSA-in-java/tree/master/0844-backspace-string-compare) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kumarnishant846/DSA-in-java/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Simulation
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kumarnishant846/DSA-in-java/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/kumarnishant846/DSA-in-java/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/kumarnishant846/DSA-in-java/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/kumarnishant846/DSA-in-java/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/kumarnishant846/DSA-in-java/tree/master/0525-contiguous-array) |
 ## Depth-First Search
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/kumarnishant846/DSA-in-java/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kumarnishant846/DSA-in-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kumarnishant846/DSA-in-java/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/kumarnishant846/DSA-in-java/tree/master/0349-intersection-of-two-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/kumarnishant846/DSA-in-java/tree/master/0349-intersection-of-two-arrays) |
 | [1382-balance-a-binary-search-tree](https://github.com/kumarnishant846/DSA-in-java/tree/master/1382-balance-a-binary-search-tree) |
 ## Backtracking
 |  |
