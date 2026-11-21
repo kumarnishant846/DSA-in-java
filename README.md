@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/kumarnishant846/DSA-in-java/tree/master/0071-simplify-path) |
 | [0214-shortest-palindrome](https://github.com/kumarnishant846/DSA-in-java/tree/master/0214-shortest-palindrome) |
 | [0844-backspace-string-compare](https://github.com/kumarnishant846/DSA-in-java/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/kumarnishant846/DSA-in-java/tree/master/1021-remove-outermost-parentheses) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kumarnishant846/DSA-in-java/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Stack
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/kumarnishant846/DSA-in-java/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/kumarnishant846/DSA-in-java/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/kumarnishant846/DSA-in-java/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/kumarnishant846/DSA-in-java/tree/master/1021-remove-outermost-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kumarnishant846/DSA-in-java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kumarnishant846/DSA-in-java/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kumarnishant846/DSA-in-java/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kumarnishant846/DSA-in-java/tree/master/0032-longest-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/kumarnishant846/DSA-in-java/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
