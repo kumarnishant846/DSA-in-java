@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/kumarnishant846/DSA-in-java/tree/master/0934-shortest-bridge) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kumarnishant846/DSA-in-java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kumarnishant846/DSA-in-java/tree/master/2073-time-needed-to-buy-tickets) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/kumarnishant846/DSA-in-java/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0934-shortest-bridge](https://github.com/kumarnishant846/DSA-in-java/tree/master/0934-shortest-bridge) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/kumarnishant846/DSA-in-java/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Linked List
 |  |
 | ------- |
