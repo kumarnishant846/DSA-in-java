@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kumarnishant846/DSA-in-java/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/kumarnishant846/DSA-in-java/tree/master/0071-simplify-path) |
 | [0214-shortest-palindrome](https://github.com/kumarnishant846/DSA-in-java/tree/master/0214-shortest-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/kumarnishant846/DSA-in-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/kumarnishant846/DSA-in-java/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/kumarnishant846/DSA-in-java/tree/master/1021-remove-outermost-parentheses) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kumarnishant846/DSA-in-java/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kumarnishant846/DSA-in-java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kumarnishant846/DSA-in-java/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/kumarnishant846/DSA-in-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/kumarnishant846/DSA-in-java/tree/master/0622-design-circular-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kumarnishant846/DSA-in-java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kumarnishant846/DSA-in-java/tree/master/2073-time-needed-to-buy-tickets) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kumarnishant846/DSA-in-java/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/kumarnishant846/DSA-in-java/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kumarnishant846/DSA-in-java/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/kumarnishant846/DSA-in-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/kumarnishant846/DSA-in-java/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/kumarnishant846/DSA-in-java/tree/master/0525-contiguous-array) |
 | [0705-design-hashset](https://github.com/kumarnishant846/DSA-in-java/tree/master/0705-design-hashset) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kumarnishant846/DSA-in-java/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/kumarnishant846/DSA-in-java/tree/master/0387-first-unique-character-in-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
