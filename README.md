@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/kumarnishant846/DSA-in-java/tree/master/0214-shortest-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/kumarnishant846/DSA-in-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/kumarnishant846/DSA-in-java/tree/master/0844-backspace-string-compare) |
+| [0936-stamping-the-sequence](https://github.com/kumarnishant846/DSA-in-java/tree/master/0936-stamping-the-sequence) |
 | [1021-remove-outermost-parentheses](https://github.com/kumarnishant846/DSA-in-java/tree/master/1021-remove-outermost-parentheses) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kumarnishant846/DSA-in-java/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Stack
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/kumarnishant846/DSA-in-java/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/kumarnishant846/DSA-in-java/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/kumarnishant846/DSA-in-java/tree/master/0907-sum-of-subarray-minimums) |
+| [0936-stamping-the-sequence](https://github.com/kumarnishant846/DSA-in-java/tree/master/0936-stamping-the-sequence) |
 | [1021-remove-outermost-parentheses](https://github.com/kumarnishant846/DSA-in-java/tree/master/1021-remove-outermost-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kumarnishant846/DSA-in-java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2487-remove-nodes-from-linked-list](https://github.com/kumarnishant846/DSA-in-java/tree/master/2487-remove-nodes-from-linked-list) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/kumarnishant846/DSA-in-java/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/kumarnishant846/DSA-in-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/kumarnishant846/DSA-in-java/tree/master/0622-design-circular-queue) |
+| [0936-stamping-the-sequence](https://github.com/kumarnishant846/DSA-in-java/tree/master/0936-stamping-the-sequence) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kumarnishant846/DSA-in-java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kumarnishant846/DSA-in-java/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0936-stamping-the-sequence](https://github.com/kumarnishant846/DSA-in-java/tree/master/0936-stamping-the-sequence) |
 | [1382-balance-a-binary-search-tree](https://github.com/kumarnishant846/DSA-in-java/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
